@@ -5,10 +5,12 @@ The codes in this repository are explain in the article MULINARI, B. M., CAMPOS,
 # The project
 
 * 1 - What is this project?
-      * This project was created to extract features for classification step in Non-Intrusive Load Monitoring (NILM).  
+     
+     This project was created to extract features for classification step in Non-Intrusive Load Monitoring (NILM).  
     
 * 2 - Which software was used to develop and use this project?
-      * Matlab R2017b
+     
+     Matlab R2017b
 
 # Files
 * propused_features: In this folder are the codes of the new features proposed in the article.
