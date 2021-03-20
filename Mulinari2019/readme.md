@@ -1,5 +1,5 @@
-# proposed_features
-In this folder are the codes of the new features proposed in the article.
+# Mulinari2019
+The codes in this folder are explained and detailed in the paper “A New Set of Steady-State and Transient Features for Power Signature Analysis Based on V-I Trajectory". IEEE PES Innovative Smart Grid Technology Latin America, 2019.
 
 # Files: 
 * fe_vi_STS: main function. Extract 12 features of V-I trajectory in steady and transient states.
