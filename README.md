@@ -1,23 +1,22 @@
-# V-I_trajectory
-
-The codes in this repository are explain in the article: 
-
-MULINARI, B. M., CAMPOS, D. P., COSTA, C. H., ANCELMO, H. C., LAZZARETTI, A. E., OROSKI, E., LIMA, C. R. E., RENAUX, D. P. B., POTTKER, F., LINHARES, R. R. "A New Set of Steady-State and Transient Features for Power Signature Analysis Based on V-I Trajectory". Accepted in: IEEE PES Innovative Smart Grid Technology Latin America, 2019.
-
 # The project
 
  * 1 - What is this project?
      
-     TThis project was created to extract features for the classification step in Non-Intrusive Load Monitoring (NILM).
+     This project was created to extract features from the V-I trajectory for the classification step in Non-Intrusive Load Monitoring (NILM) approaches. V-I trajectory creates two-dimensional shapes from the plot of one cycle of the voltage by one cycle of the system's measured current.
     
  * 2 - Which software was used to develop and use this project?
      
-     Matlab R2017b
+     Matlab R2017b and R2019b
 
 # Files
-* propused_features:  In this folder, the codes of the new features proposed in the article are included.
-* current_features_2018: In this folder, the codes of features presented in current literature until 2018 are included.
-* The details of each feature are presented in the M-files.
+*	current_features_2018: In this folder, we included the codes of V-I based features presented in the literature until 2018.
+*	Mulinari2019: The codes in this folder are explained and detailed in the paper “A New Set of Steady-State and Transient Features for Power Signature Analysis Based on V-I Trajectory". IEEE PES Innovative Smart Grid Technology Latin America, 2019.
+*	F2D: The codes in this folder are explained and detailed in the paper “Feature Extraction of V-I Trajectory using 2-D Fourier Series for Electrical Load Classification". Submitted to Electric Power Systems Research (ELSEVIER), 2021 (under review).
+*	The details of each feature are presented in the corresponding M-files
+
 
 # Questions & Suggestions
 * For any questions and/or suggestions, please feel free to e-mail us at: brunamachadomulinari@gmail.com
+
+# Contributors:
+UTFPR (http://www.utfpr.edu.br/).
