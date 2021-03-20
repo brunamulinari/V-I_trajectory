@@ -26,7 +26,7 @@ function [len] = vilentgh(Ws, splot)
 % purposes. However, it is appreciated if you maintain the name of the original 
 % author.
 %
-% (C) Bruna M. Mulinari, Federal University of Technology - Paran·. 
+% (C) Bruna M. Mulinari, Federal University of Technology - Paran√°. 
 %
 % Version: 1.0, 16 April 2019
 % 
