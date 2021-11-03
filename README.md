@@ -11,7 +11,7 @@
 # Files
 *	current_features_2018: In this folder, we included the codes of V-I based features presented in the literature until 2018.
 *	Mulinari2019: The codes in this folder are explained and detailed in the paper “A New Set of Steady-State and Transient Features for Power Signature Analysis Based on V-I Trajectory". IEEE PES Innovative Smart Grid Technology Latin America, 2019.
-*	F2D: The codes in this folder are explained and detailed in the paper “Feature Extraction of V-I Trajectory using 2-D Fourier Series for Electrical Load Classification". Submitted to Electric Power Systems Research (ELSEVIER), 2021 (under review).
+*	F2D: The codes in this folder are explained and detailed in the paper “Feature Extraction of V-I Trajectory using 2-D Fourier Series for Electrical Load Classification". Submitted to IEEE Sensors Journal, 2021 (under review).
 *	The details of each feature are presented in the corresponding M-files
 
 
